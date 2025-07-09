@@ -1,6 +1,6 @@
 # React Sample Code
 
-This repository contains sample React code demonstrating best practices, component structures, and patterns for building modern React applications. It is intended as a reference for developers looking to understand, learn, and experiment with React.
+This repository contains sample React code demonstrating best practices, component structures, and patterns for building modern React applications. 
 
 ## Features
 
